@@ -33,3 +33,8 @@
 
 
 ![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=gauravgulati15&show_icons=true&hide_border=true)
+
+</br >
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
