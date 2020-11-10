@@ -38,3 +38,7 @@
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+</br >
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravgulati15&layout=compact&theme=cobalt)](https://github.com/gauravgulati15/github-readme-stats)
