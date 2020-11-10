@@ -32,7 +32,7 @@
 </br >
 
 
-![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=gauravgulati15&show_icons=true&hide_border=true)
+![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=gauravgulati15&show_icons=true&hide_border=true&theme=cobalt)
 
 </br >
 
