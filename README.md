@@ -1,6 +1,6 @@
 ### Hi there, I'm Gaurav Gulati 👋
 
-## I'm a Learner and Machine Learning Enthusiast from India!!
+## I'm a Learner and a Machine Learning Enthusiast from India!!
 
 - 🔭 I’m currently working on Competitive Programming Concepts!
 - 🌱 I’m currently learning everything 🤣
