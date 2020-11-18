@@ -3,7 +3,7 @@
 ## I'm a Learner and Machine Learning Enthusiast from India!!
 
 - 🔭 I’m currently working on Competitive Programming Concepts!
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 - 👯 I’m looking to collaborate on Any Open Source Project involving Web Development!
 - 🥅 2020 Goals: Contribute more to Open Source projects and improve Competitive Programming
 - ⚡ Fun fact: I love to cook👨‍🍳!
