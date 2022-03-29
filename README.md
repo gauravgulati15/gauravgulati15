@@ -2,13 +2,17 @@
 
 ## I'm a Software Developer from India!
 
-- 🔭 I’m currently working as Software Engineer Intern at Slotly.io
-- 🌱 I’m currently learning React  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<!-- - 🔭 I’m currently working as Software Engineer Intern at Slotly.io
+- 🌱 I’m currently learning React  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> -->
 - 👯 I’m looking to collaborate on Any Open Source Project involving Web Development!
 - 🥅 2021 Goals: Contribute more to Open Source projects and make some Blockchain projects.
 - ⚡ Fun fact: I love to cook👨‍🍳!
 - 🧠 Interests: Blockchain and Machine Learning!
 <br />
+
+**Experience:**
+- Software Engineer Intern at Slotly.io
+- C++ DSA Mentor at IOSD
 
 **Languages and Tools:**  
 
