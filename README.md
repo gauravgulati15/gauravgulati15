@@ -2,8 +2,8 @@
 
 ## I'm a Software Developer from India!
 
-<!-- - 🔭 I’m currently working as Software Engineer Intern at [Slotly.io](https://slotly.io)
-- 🌱 I’m currently learning React  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> -->
+<!-- - 🔭 I just completed Major League Hacking Fellowship - Prep Program.
+- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Any Open Source Project involving Web Development!
 - 🥅 2022 Goals: Contribute more to Open Source projects and make some Blockchain projects.
 - ⚡ Fun fact: I love to cook👨‍🍳!
@@ -11,8 +11,9 @@
 <br />
 
 **Experience:**
+- Major League Hacking Prep Fellow
 - Software Engineer Intern at **[Slotly.io](https://slotly.io)**
-- C++ DSA Mentor at IOSD
+- C++ DSA Mentor and SIG Head at IOSD - MAIT
 
 **Languages and Tools:**  
 
