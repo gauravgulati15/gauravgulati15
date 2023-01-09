@@ -3,9 +3,9 @@
 ## I'm a final year CS grad from India!
 
 - 🔭 I just completed Major League Hacking Fellowship - Prep Program.
-- 🌱 I’m currently learning Machine Learning!
+- 🌱 I’m currently looking for Software Engineer roles!
 - 👯 I’m looking to collaborate on Any Open Source Project involving Web Development!
-- 🥅 2022 Goals: Contribute more to Open Source projects and work on Machine Learning projects.
+- 🥅 2023 Goals: Contribute more to Open Source projects and work on Machine Learning projects.
 - ⚡ Fun fact: I love to cook👨‍🍳!
 - 🧠 Interests: Blockchain and Machine Learning!
 
