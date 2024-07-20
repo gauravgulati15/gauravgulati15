@@ -3,7 +3,6 @@
 ## I'm a CS grad from India!
 .
 - 🌱 I’m currently looking for Software Engineer roles!
-- 👯 I’m looking to collaborate on Any Open Source Project involving Web Development!
 - ⚡ Fun fact: I love to cook👨‍🍳!
 - 🧠 Interests: Blockchain and Machine Learning!
 
